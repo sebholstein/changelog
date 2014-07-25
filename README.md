@@ -1,6 +1,6 @@
-# changelog
+# changelog [![Build Status](https://drone.io/github.com/SebastianM/changelog/status.png)](https://drone.io/github.com/SebastianM/changelog/latest)
 
-"changelog" is a simple CLI based changelog generator. 
+`changelog is a simple CLI based changelog generator. 
 It's a port from JS ([connvetional-changelog](https://github.com/ajoslin/conventional-changelog)) to Go.
 
 It uses git metadata, based on [these commit conventions](https://docs.google.com/document/d/1QrDFcIiPjSLDn3EL15IJygNPiHORgU1_OOAqWjiDU5Y/).
