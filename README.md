@@ -10,3 +10,7 @@ View [conventional-changelog/CONVENTIONS.md](https://github.com/ajoslin/conventi
 ## Example output
 - https://github.com/btford/grunt-conventional-changelog/blob/master/CHANGELOG.md
 - https://github.com/karma-runner/karma/blob/master/CHANGELOG.md
+
+## Links
+- Website: http://sebastianm.github.io/changelog
+- API Docs:  http://godoc.org/github.com/SebastianM/changelog
