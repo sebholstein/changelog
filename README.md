@@ -1,4 +1,4 @@
-# changelog [![Build Status](https://drone.io/github.com/SebastianM/changelog/status.png)](https://drone.io/github.com/SebastianM/changelog/latest)
+# changelog [![Build Status](https://drone.io/github.com/SebastianM/changelog/status.png)](https://drone.io/github.com/SebastianM/changelog/latest) [![GoDoc](https://godoc.org/github.com/SebastianM/changelog?status.svg)](https://godoc.org/github.com/SebastianM/changelog)
 
 `changelog` is a simple CLI based changelog generator. 
 It's a port from JS ([connvetional-changelog](https://github.com/ajoslin/conventional-changelog)) to Go.
